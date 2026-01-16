@@ -9,3 +9,4 @@ index.js
 package-lock.json
 package.json
 vite.config.ts
+.DS_Store
