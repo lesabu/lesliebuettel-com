@@ -1,0 +1,11 @@
+/fonts
+/images
+/js
+/node_modules
+index.css
+index.html
+!/docs/index.html
+index.js
+package-lock.json
+package.json
+vite.config.ts
